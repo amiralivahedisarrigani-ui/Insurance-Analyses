@@ -15,3 +15,12 @@ Use Insurance;
     GROUP BY Age_Group
     ORDER BY Total_Claim DESC;
 
+-- 2. Which weight class have more loyality and hospital vist
+
+	select
+		BMI_Range,
+        Round(avg(insurance_tenure_years),2) AS Average_tenure,
+        count(hospital_visits_per_year) AS Hospital_visit
+	From Insurance.Insurance_data
+    GROUP BY BMI_Range
+    Order By Average_tenure DESC;
