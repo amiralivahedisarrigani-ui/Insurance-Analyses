@@ -67,7 +67,6 @@ The structure enables efficient querying for the 10 key business questions.
 
 The data obtained from various CSV sources required preprocessing to ensure consistency. SQL queries were utilized to clean, aggregate, and transform the data for meaningful analysis. All monetary values are in AED (UAE Dirham), and percentages are formatted to two decimal places.
 
-![BMI_Analysis](https://via.placeholder.com/800x400?text=BMI+Range+Analysis+Chart)
 
 ## Project Includes:
 
