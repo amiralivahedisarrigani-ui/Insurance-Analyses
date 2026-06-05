@@ -135,8 +135,8 @@ The Insurance Data Analysis project provides comprehensive insights into custome
 ## Author
 
 - <ins><b>©2024 Amir Ali Vahedi. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/amir-ali-vahedi/)</b>
-- <b>[GitHub](https://github.com/yourusername)</b>
+- <b>[LinkedIn](www.linkedin.com/in/amiralivahedi)</b>
+- <b>[GitHub](https://github.com/amiralivahedisarrigani-ui)</b>
 
 ## Contact
 
