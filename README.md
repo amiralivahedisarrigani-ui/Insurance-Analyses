@@ -13,7 +13,7 @@
 
 This project analyzes insurance data to uncover critical insights about customer demographics, health behaviors, regional risks, and financial performance. The analysis addresses 10 key business questions using SQL queries executed on an `Insurance` database. The insights help insurance providers optimize pricing strategies, identify high-risk customer segments, and improve risk assessment models.
 
-## [Reports](https://github.com/yourusername/insurance-analysis/tree/main/reports)
+## [Reports]()
 
 ## Project Structure
 
