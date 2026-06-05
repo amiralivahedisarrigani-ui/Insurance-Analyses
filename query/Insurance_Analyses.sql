@@ -98,7 +98,7 @@ ORDER BY a.average_agency_Charges DESC;
 	group by exercise_level
     order by avg_claims DESC;
     
--- 9. Which occupations drive highest charges in high-risk band?
+-- 9. Top 3 occupations with highest charges in high-risk band?
 
 WITH HighRisk_Occupations AS (
     SELECT 
