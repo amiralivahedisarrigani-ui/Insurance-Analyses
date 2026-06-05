@@ -1,0 +1,7 @@
+BMI_Range,Average_tenure,Hospital_visit
+"Normal weight",4.28,90
+Overweight,4.17,189
+"Obese (Class I)",4.08,200
+"Obese (Class III)",4.07,40
+"Obese (Class II)",3.73,120
+Underweight,3.36,10

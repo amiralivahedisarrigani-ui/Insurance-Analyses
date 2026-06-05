@@ -1,0 +1,11 @@
+Gender,Age_Group,total_customers,avg_tenure,avg_charges
+female,Adults,66,4.54,10696.41
+female,Elders,74,4.08,18565.13
+female,"Mid-age Adults",52,3.36,12741.42
+female,"Older Adults",63,4.03,13063.82
+female,"Young Adults",67,3.77,7221.81
+male,Adults,66,3.56,11989.91
+male,Elders,58,4.07,19571.5
+male,"Mid-age Adults",61,4.28,13852.78
+male,"Older Adults",72,4.35,16701.06
+male,"Young Adults",70,4.38,8801.47
