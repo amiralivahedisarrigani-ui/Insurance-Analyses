@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)
+
 ## Overview
 
 This project analyzes insurance data to uncover critical insights about customer demographics, health behaviors, regional risks, and financial performance. The analysis addresses 10 key business questions using SQL queries executed on an `Insurance` database. The insights help insurance providers optimize pricing strategies, identify high-risk customer segments, and improve risk assessment models.
